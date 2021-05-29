@@ -6,6 +6,8 @@ After you checked out the project, run the following command:
 
 `mvn clean verify`
 
+NOTE: This branch contains initial source code for the demo project, you can find the final source code in the main branch
+
 This project contains examples for 3 OAuth2 Grant Types
 
 - Authorization Code Flow (oauth2-authorization-code-demo)
