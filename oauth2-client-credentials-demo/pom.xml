@@ -13,12 +13,11 @@
     <packaging>pom</packaging>
     <modules>
         <module>microservice-1</module>
-        <module>microservice-2</module>
     </modules>
 
     <properties>
-        <maven.compiler.source>16</maven.compiler.source>
-        <maven.compiler.target>16</maven.compiler.target>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
     </properties>
 
 </project>
