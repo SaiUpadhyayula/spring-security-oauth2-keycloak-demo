@@ -13,7 +13,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>microservice-1</module>
-        <module>microservice-2</module>
     </modules>
 
     <properties>
